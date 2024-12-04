@@ -6,20 +6,19 @@ https://github.com/users/ngerakines/sponsorship
 
 # About WTC (What The Commit)
 
-Commitment is a small Tornado application that generates random commit messages.
+Clean-Commitment is a small Tornado application that generates random commit messages.
+It's based on Commitment, but it does not contain profanity.
 
-    https://whatthecommit.com/
+    https://commits.freedomland.xyz/
 
-Commitment also provides https://whatthecommit.com/index.txt which provides plain text output. Some interesting usage for that can be:
+Clean-Commitment also provides https://commits.freedomland.xyz/index.txt which provides plain text output. Some interesting usage for that can be:
 
 ```
-git config --global alias.yolo '!git commit -m "$(curl -s https://whatthecommit.com/index.txt)"'
+git config --global alias.yolo '!git commit -m "$(curl -s https://commits.freedomland.xyz/index.txt)"'
 ```
 
-Or use one of the following VSCode Extensions:
-
-- [WhatTheCommit](https://marketplace.visualstudio.com/items?itemName=Gaardsholt.vscode-whatthecommit) 
-- [yoloCommit](https://marketplace.visualstudio.com/items?itemName=JohnStilia.yolocommit)
+All credit to Nick Gerakines for the original work and implementation.
+All I did was clean out some profanity from the messages file.
 
 # License
 
