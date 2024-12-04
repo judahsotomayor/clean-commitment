@@ -190,11 +190,7 @@ I will not apologize for art.
 I will run 'cargo fmt' before committing.
 I will run 'go fmt' before committing.
 I will run 'terraform fmt' before committing.
-I would rather be playing Destiny 2.
-I would rather be playing Factorio.
-I would rather be playing Hell Divers 2.
-I would rather be playing No Man's Sky.
-I would rather be playing SC2.
+I would rather be playing XGAMENAMEX.
 I'M PUSHING.
 I'll explain this when I'm sober .. or revert it
 I'll explain when you're older!

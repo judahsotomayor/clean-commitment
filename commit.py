@@ -61,11 +61,20 @@ default_names = [
     "Tony",
 ]
 
+default_game_names = [
+    "Destiny 2",
+    "Factorio",
+    "Hell Divers 2",
+    "No Man's Sky",
+    "SC2",
+]
+
 num_re = re.compile(r"XNUM([0-9,]*)X")
 
 
-def fill_line(message: str, names: List[str]) -> str:
+def fill_line(message: str, names: List[str], games: List[str]) -> str:
     message = message.replace("XNAMEX", random.choice(names))
+    message = message.replace("XGAMENAMEX", random.choice(games))
     message = message.replace("XUPPERNAMEX", random.choice(names).upper())
     message = message.replace("XLOWERNAMEX", random.choice(names).lower())
 
