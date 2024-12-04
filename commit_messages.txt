@@ -1,5 +1,5 @@
  ¯\_(ツ)_/¯
-"Get that shit outta my master."
+"Get that trash outta my master."
 #GrammarNazi
 $(init 0)
 $(rm -rvf .)
@@ -12,11 +12,9 @@ $(rm -rvf .)
 /sigh
 50/50
 640K ought to be enough for anybody
-8==========D
 :(:(
 :q!
 ??! what the ...
-[FIX] asdf
 A fix I believe, not like I tested or anything
 A full commitment's what I'm thinking of
 A long time ago, in a galaxy far far away...
@@ -28,12 +26,12 @@ Add Sandbox
 Added a banner to the default admin page. Please have mercy on me =(
 Added another dependency
 Added missing file in previous commit
-Added some NullPointerExceptions - Happy easter, you bastards! :D
+Added some NullPointerExceptions - Happy easter, you sons of guns! :D
 Added translation.
 All your codebase are belong to us.
 And a commit that I don't know the reason of...
-And if you ask me how I'm feeling
 And if thou'rt unwilling, then force I'll employ
+And if you ask me how I'm feeling
 Another bug bites the dust
 Another commit to keep my CAN streak going.
 Apparently works-for-me is a crappy excuse.
@@ -52,7 +50,7 @@ COMMIT ALL THE FILES!
 Can someone review this commit, please ?
 Check next commit for message.
 Chuck Norris Emailed Me This Patch... I'm Not Going To Question It
-Code was clean until manager requested to fuck it up
+Code was clean until manager requested to change it
 Commit committed
 Commit committed....
 Committed some changes
@@ -69,7 +67,7 @@ DNS_PROBE_FINISHED_NXDOMAIN
 Definitely fixing a mistake Copilot made. Totally not mine.
 Deleted API file
 Derp
-Derp search/replace fuckup
+Derp search/replace messup
 Derp, asset redirection in dev mode
 Derp. Fix missing constant post rename
 Derpy hooves
@@ -85,11 +83,10 @@ Don’t even try to refactor it.
 Don’t mess with Voodoo
 Duh
 Easteregg
-Either Hot Shit or Total Bollocks
+Either Hot Stuff or Total Trash
 Errare humanum est.
 FONDLED THE CODE
 FOR REAL.
-FUCKING XUPPERNAMEX
 Feed. You. Stuff. No time.
 Final commit, ready for tagging
 Fingers crossed!
@@ -101,6 +98,7 @@ Fix edge, single client, error case
 Fix hard-coded [object Object] string (thanks!)
 Fix my stupidness
 Fix the fixes
+Fixed #XNUMX!
 Fixed Bug
 Fixed a bug cause XNAMEX said to
 Fixed a bug in NoteLineCount... not seriously...
@@ -110,9 +108,8 @@ Fixed errors
 Fixed everything.
 Fixed mispeling
 Fixed so the code compiles
-Fixed some shit
+Fixed some stuff
 Fixed the build.
-Fixed the fuck out of #XNUMX!
 Fixed unnecessary bug.
 Fixed what was broken.
 Fixing XNAMEX's bug.
@@ -122,26 +119,24 @@ For real, this time.
 For the sake of my sanity, just ignore this...
 For the statistics only
 Friday 5pm
-Fuck it, YOLO!
-Fucking egotistical bastard. adds expandtab to vimrc
-Fucking submodule bull shit
-Fucking templates.
 Future self, please forgive me and don't hit me with the baseball bat again!
 GIT :/
 General commit (no IDs open) - Modifications for bad implementations
 Git wants e to commit, I want to sleep. Take me sweet void.
 Give me a break, it's 2am.  But it works now.
 Glue. Match sticks. Paper. Build script!
+God help us all
 Gotta make you understand
 Gross hack because XNAMEX doesn't know how to code
-Handled a particular error.
+HOT RUSSIAN CODES WAITING FOR YOU TO CALL
 Haiyaa
+Handled a particular error.
 Here be Dragons
 Herp derp I left the debug in there and forgot to reset errors.
 Herpderp, shoulda check if it does really compile.
 Herping the derp
 Herping the derp derp (silly scoping error)
-Herping the fucking derp right here and now.
+Herping the derp right here and now.
 Herpy dooves.
 Hide those navs, boi!
 Hiding API key hahaha
@@ -159,18 +154,19 @@ I can't believe it took so long to fix this.
 I cannot believe that it took this long to write a test for this.
 I did it for the lulz!
 I don't believe it
-I don't get paid enough for this shit.
-I don't give a damn 'bout my reputation
-I don't know what the hell I was thinking.
+I don't care 'bout my reputation
+I don't get paid enough for this stuff.
+I don't know what on earth I was thinking.
 I don't know what these changes are supposed to accomplish but somebody told me to make them.
 I don't know why. Just move on.
 I dont know what I am doing
 I expected something different.
 I forgot to commit... So here you go.
 I had a cup of tea and now it's fixed
-I hate this fucking language.
-I have no idea what I'm doing here.
+I hate templates.
+I hate this language.
 I have no idea what Copilot was doing there.
+I have no idea what I'm doing here.
 I honestly wish I could remember what was going on here...
 I immediately regret this commit.
 I just evaluated random code in my console
@@ -191,29 +187,29 @@ I understand that it's an antipattern, but it's convenient.
 I was told to leave it alone, but I have this thing called OCD, you see
 I was wrong...
 I will not apologize for art.
-I will run 'terraform fmt' before committing.
 I will run 'cargo fmt' before committing.
 I will run 'go fmt' before committing.
+I will run 'terraform fmt' before committing.
 I would rather be playing Destiny 2.
 I would rather be playing Factorio.
 I would rather be playing Hell Divers 2.
 I would rather be playing No Man's Sky.
 I would rather be playing SC2.
-I'm always trying to show versatility.
 I'M PUSHING.
 I'll explain this when I'm sober .. or revert it
 I'll explain when you're older!
 I'll mention this again, if you're git-blaming this, don't come slap me personally. This code straight ported from another project and we WILL refactor this in the future. This is a temporary solution. OK I guess you can slap me for porting this as is, but still.
+I'm always trying to show versatility.
 I'm guessing this may start causing us problems either soon or never.
 I'm human
 I'm hungry
-I'm just a grunt. Don't blame me for this awful PoS.
+I'm just a grunt. Don't blame me for this awful code.
 I'm just going to blame Copilot for that one.
-I'm pretty sure XNAMEX isn't real and they are just Copilot in a trench coat.
 I'm pretty sure XNAMEX isn't real and they are just 3 racoons in a trench coat.
+I'm pretty sure XNAMEX isn't real and they are just Copilot in a trench coat.
 I'm sorry.
 I'm too foo for this bar
-I'm too old for this shit!
+I'm too old for this stuff!
 I'm totally adding this to epic win. +300
 ID:10T Error
 IEize
@@ -227,8 +223,8 @@ Is there an achievement for this?
 Is there an award for this?
 Issue #XNUM10X is now Issue #XNUM30X
 It Compiles! 50 Points For Gryffindor.
+It compiles \:D/
 It compiles! Ship it!
-It fucking compiles \:D/
 It only compiles every XNUM2,5X tries... good luck.
 It was the best of times, it was the worst of times
 It worked for me...
@@ -248,18 +244,18 @@ LOL!
 LOTS of changes. period
 Landed.
 Last time I said it works? I was kidding.  Try this.
+Livin' off borrowed time, the clock ticks faster
 Locating the required gigapixels to render...
 Lock S-foils in attack position
 Love coding? here's the secret reason why
 Low On Caffeine, Please Forgive Coding Style
-Livin' off borrowed time, the clock ticks faster
 MOAR BIFURCATION
 Made it to compile...
 Major fixup.
 Make Sure You Are Square With Your God Before Trying To Merge This
 Make that it works in 90% of the cases.  3:30.
 Merge pull my finger request
-Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit
+Merge pull request #67 from Lazersmoke/fix-andys-stuff Fix andys stuff
 Merging 'WIP: Do Not Merge This Branch' Into Master
 Merging the merge
 Minor updates
@@ -268,7 +264,7 @@ Mongo.db was empty, filled now with good stuff
 More ignore
 Moved something to somewhere... goodnight...
 My bad
-My boss forced me to build this feature... Pure shit.
+My boss forced me to build this feature... Pure garbage.
 NOJIRA: No cry
 NSA backdoor - ignore
 Never Run This Commit As Root
@@ -294,9 +290,9 @@ Now added delete for real
 Now it's all microservices, I hope the fad persists.
 Now we tell you your browser sucks in your native tongue.
 Obligatory placeholder commit message
-Oh my god what year is it?!
+Oh my gosh what year is it?!
 Oh no
-Oh thank god for Copilot
+Oh thank goodness for Copilot
 Ok
 Ok, 5am, it works.  For real.
 One day I'll actually start looking at what Copilot generates instead of just immediately pushing it.
@@ -314,14 +310,14 @@ Please forgive me
 Please no changes this time.
 Please our Lord and Savior the Great Linter.
 Popping stash
-Pro Tip: Use Copilot more
-Pro Tip: Read Copilot output before pushing it
 Pro Tip: Double check XNAMEX's PRs
+Pro Tip: Read Copilot output before pushing it
+Pro Tip: Use Copilot more
 Programming the flux capacitor
 Push poorly written test can down the road another ten years
 Put everything in its right place
 QuickFix.
-REALLY FUCKING FIXED
+REALLY FIXED
 Refactor factories, revisit visitors
 Refactored configuration.
 Reinventing the wheel. Again.
@@ -332,23 +328,20 @@ Removing unecessary stuff
 Replace all whitespaces with tabs.
 Reset error count between rows. herpderp
 Reticulating splines...
-Revert "fuckup".
 Revert "git please work"
 Revert "just testing, remember to revert"
+Revert "messup".
 Revert this commit
 Riz
 Rush B!
-SEXY RUSSIAN CODES WAITING FOR YOU TO CALL
-SHIT ===> GOLD
-SOAP is a piece of shit
+SOAP is a piece of garbash
 Saint Pipeline, please give me the green light
 Same as last commit with changes
 See last commit
-Shit code!
 Shovelling coal into the server...
 So my boss wanted this button ...
 Some bugs fixed
-Some shit.
+Some trash.
 Somebody set up us the bomb.
 Something fixed
 Spinning up the hamster...
@@ -361,12 +354,13 @@ TODO: Replace placeholder code
 TODO: Replace stubs
 TODO: Tell someone to implement this
 TODO: write meaningful commit message
+TRASH ===> GOLD
 Test commit. Please ignore
 Testing in progress ;)
 Testing the test
-Thank god for Copilot
-That last commit was cringe
+Thank goodness for Copilot
 That last commit message about silly mistakes pales in comparision to this one
+That last commit was cringe
 That's just how I roll
 The dog is eating my code
 The last time I tried this the monkey didn't survive. Let's hope it works better this time.
@@ -401,6 +395,7 @@ Todo!!!
 Too lazy to write descriptive message
 Too tired to write descriptive message
 Transpiled mainframe.
+Trash code!
 Trust me, I'm an engineer!... What the f*ck did just happened here?
 Trust me, it's not badly written. It's just way above your head.
 Trying to fake a conflict
@@ -411,13 +406,12 @@ Update commit_messages.txt
 Updated
 Updated build targets.
 Updated framework to the lattest version
-Use a real JS construct, WTF knows why this works in chromium.
+Use a real JS construct, who knows why this works in chromium.
 Useful text
 Version control is awful
-WHO THE FUCK CAME UP WITH MAKE?
+WHO ON EARTH CAME UP WITH MAKE?
 WIP, always
 WIPTF
-WTF is this.
 We Had To Use Dark Magic To Make This Work
 We know the game and we're gonna play it
 We should delete this crap before shipping.
@@ -428,33 +422,34 @@ We've known each other for so long
 Well the book was obviously wrong.
 Well, it's doing something.
 What happens in vegas stays in vegas
+What is this.
 Whatever will be, will be 8{
 Whatever.
 Whee, good night.
 Whee.
 Who Let the Bugs Out??
 Who has two thumbs and remembers the rudiments of his linear algebra courses?  Apparently, this guy.
-Who knows WTF?!
 Who knows...
-Why The Fuck?
+Who knows?!
+Why On Earth?
 Working on WIP
 Working on tests (haha)
 Wubbalubbadubdub!
 XNAMEX broke the regex, lame
 XNAMEX is a savage
-XNAMEX is going to love this.
 XNAMEX is going to hate this.
-XNAMEX is on call, but here I am on Saturday fixing their shit.
+XNAMEX is going to love this.
+XNAMEX is on call, but here I am on Saturday fixing their trash.
 XNAMEX is savage
 XNAMEX made me do it
 XNAMEX needs to start reading Copilot output and not just push blindly.
-XNAMEX really fucked the couch on that one.
 XNAMEX rebase plx?
 XNAMEX sucks
+XUPPERNAMEX
 XUPPERNAMEX SUCKS
 XUPPERNAMEX, WE WENT OVER THIS. C++ IO SUCKS.
-XUPPERNAMEX, WE WENT OVER THIS. EXPANDTAB.
 XUPPERNAMEX, WE WENT OVER THIS. CHECK WHAT COPILOT PRODUCES FIRST.
+XUPPERNAMEX, WE WENT OVER THIS. EXPANDTAB.
 Yep, XNAMEX was right on this one.
 Yes, I was being sarcastic.
 You can't see it, but I'm making a very angry face right now
@@ -463,12 +458,13 @@ You should have trusted me.
 You wouldn't get this from any other guy
 Your commit is writing checks your merge can't cash.
 Your heart's been aching but you're too shy to say it
+[FIX] asdf
 [Insert your commit message here. Be sure to make it descriptive.]
 [no message]
 [skip ci] I'll fix the build monday
 _
 a few bits tried to escape, but we caught them
-a lot of shit
+a lot of trash
 accidental commit
 add actual words
 add dirty scripts from the dark side of the universe
@@ -483,7 +479,7 @@ and a comma
 and so the crazy refactoring process sees the sunlight after some months in the dark!
 another big bag of changes
 apparently i did something…
-arrgghh... damn this thing for not working.
+arrgghh... this thing still ain't working
 arrrggghhhhh fixed!
 asdfasdfasdfasdfasdfasdfadsf
 assorted changes
@@ -498,14 +494,13 @@ bla
 breathe, =, breathe
 buenas those-things.
 bug fix
-bugger
 bump to 0.0.3-dev:wq
 bumping poms
 c&p fail
 changed things...
 changes
 ci test
-clarify further the brokenness of C++. why the fuck are we using C++?
+clarify further the brokenness of C++. why on earth are we using C++?
 commented out failing tests
 commit
 copy and paste is not a design pattern
@@ -522,7 +517,8 @@ does it work? maybe. will I check? no.
 doh.
 done. going to bed now.
 dope
-download half the damn internet to parse a pdf
+download half the internet to parse a pdf
+egotistical jerk. adds expandtab to vimrc
 enabled ultra instinct
 epic
 eppic fail XNAMEX
@@ -536,30 +532,28 @@ first blush
 fix
 fix /sigh
 fix bug, for realz
-fix some fucking errors
+fix some errors
+fix that sign!!!
 fix tpyo
 fixed conflicts (LOL merge -s ours; push -f)
 fixed errors in the previous commit
 fixed mistaken bug
-fixed shit that havent been fixed in last commit
 fixed some minor stuff, might need some additional work.
-fix that damn sign!!!
 fixed the israeli-palestinian conflict
+fixed trash that havent been fixed in last commit
 fixes
-fixing project shit
+fixing project trash
 foo
 forgot a contact page woops haha
 forgot to save that file
 forgot we're not using a smart language
 formatted all
 freemasonry
-fuckup.
 gave up and used tables.
 giggle.
 git + ipynb = :(
 git please work
-git stash * 
-god help us all
+git stash *
 grmbl
 grrrr
 hacky sack
@@ -572,17 +566,17 @@ herpderp (redux)
 hey, look over there!
 hey, what's that over there?!
 hmmm
-holy shit it's functional
+holy cow it's functional
 hoo boy
-hopefully going to get a successful build got damn it
+hopefully going to get a successful build
 i dunno, maybe this works
 i hid an easter egg in the code. can you find it?
 i need therapy
 i think i fixed a bug...
-if you're not using et, fuck off
+if you're not using et, pound sand
 implemented missing semicolon
 improved function
-include shit
+include stuff
 increased loading time by a bit
 it is hump day _^_
 it's friday
@@ -605,6 +599,7 @@ making this thing actually usable.
 marks
 mergeconflix is the new hottest Gaul on the block
 mergederp
+messup.
 minor changes
 more debug... who overwrote!
 more fixes
@@ -638,7 +633,7 @@ pushing another fix
 put code that worked where the code that didn't used to be
 rats
 really ignore ignored worsd
-refuckulated the carbonator
+redestroyed the carbonator
 remove certain things and added stuff
 remove debug<br/>all good
 removed echo and die statements, lolz.
@@ -654,17 +649,17 @@ small is a real HTML tag, who knew.
 some brief changes
 some stuff working haha
 somebody keeps erasing my changes.
-someday I gonna kill someone for this shit...
+someday I gonna kill someone for this...
 someone fails and it isn't me
 sometimes you just herp the derp so hard it herpderps
 speling is difikult
 squash me
 starting the service is always better
-still trying to render a damn cube
+still trying to render a cube
 stopped caring XNUM8,23X commits ago
 stuff
 syntax
-tagging release w.t.f.
+tagging release
 that coulda been bad
 that's all folks
 the magic is real
@@ -674,7 +669,7 @@ things occurred
 third time's a charm
 this doesn't really make things faster, but I tried
 this is Spartaaaaaaaa
-this is how we generate our shit.
+this is how we generate our code.
 this is my quickfix branch and i will use to do my quickfixes
 this is why docs are important
 this should fix it
@@ -690,8 +685,8 @@ unh
 unionfind is no longer being molested.
 various changes
 well crap.
-what the hell happened here
 what is estonia up to now ...
+what on earth happened here
 whatthecommit.com’s server IP address could not be found.
 who has two thumbs and is a genius? not this guy!
 who hurt you
